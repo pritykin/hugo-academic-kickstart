@@ -1,3 +1,4 @@
+
 +++
 # A Recent Publications section created with the Pages widget.
 # This section displays recent blog posts from `content/publication/`.
@@ -7,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Publications"
 subtitle = ""
 
 [content]
@@ -15,7 +16,7 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 1
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -36,7 +37,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 4
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -66,6 +67,9 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+
+See also [Google Scholar](https://scholar.google.com/citations?hl=en&user=Arx56RkJBrYC&view_op=list_works&sortby=pubdate) or [PubMed](https://www.ncbi.nlm.nih.gov/sites/myncbi/yury.pritykin.1/bibliography/51559377/public/?sort=date&direction=ascending).
+
+\* co-first authors; \# authors listed alphabetically
+
+

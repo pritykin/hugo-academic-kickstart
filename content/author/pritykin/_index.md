@@ -16,7 +16,7 @@ role = "Postdoctoral Research Associate"
 organizations = [ { name = "Memorial Sloan Kettering Cancer Center", url = "https://www.mskcc.org/research/ski" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My main interest and expertise is in using applied statistics, machine learning, and efficient computer algorithms to address fundamental questions in biology by integrative analysis and interpretation of high-throughput data."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -24,14 +24,14 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Computational biology",
-  "Statistics",
-  "Machine learning",
-  "Genomics",
-  "Single-cell technologies",
-  "Immunology",
-  "Cancer",
-  "Epigenetics",
-  "Regulation of gene expression"
+  "Cancer immunology",
+  "Regulation of gene expression",
+#  "Statistics",
+#  "Machine learning",
+  "Functional genomics",
+  "Single-cell technologies"
+#  "Cancer",
+#  "Epigenetics",
 ]
 
 
@@ -75,6 +75,11 @@ interests = [
   icon_pack = "fab"
   link = "https://twitter.com/PritykinScience"
 
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://www.linkedin.com/in/yuri-pritykin-5b290993/"
+
 
 # [[social]]
 #   icon = "github"
@@ -91,3 +96,9 @@ interests = [
 +++
 
 I am a postdoctoral researcher in [the Leslie lab](https://www.mskcc.org/research/ski/labs/christina-leslie) in [Computational and Systems Biology Program](https://www.mskcc.org/research/ski/programs/computational-biology) at [Memorial Sloan Kettering Cancer Center](https://www.mskcc.org/research/ski). My main interest and expertise is in using applied statistics, machine learning, and efficient computer algorithms to address fundamental questions in biology by integrative analysis and interpretation of multi-dimensional data.
+
+
+#### Awards
+
+* AACR---Bristol-Myers Squibb Immuno-oncology Research Fellowship (2019)
+* Memorial Sloan Kettering---Parker Institute for Cancer Immunotherapy---Cycle for Survival Fund (2018)
