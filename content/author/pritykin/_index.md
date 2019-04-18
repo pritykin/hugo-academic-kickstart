@@ -62,7 +62,7 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:pritykin@cbio.mskcc.org"
+  link = "#contact"
 
 [[social]]
   icon = "google-scholar"
