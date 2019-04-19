@@ -7,5 +7,6 @@ publication_types = ["7"]
 abstract = ""
 featured = false
 publication = "*Диссертация на соискание ученой степени кандидата физико-математических наук*"
+url_pdf = "files/2009-dissertation.pdf"
 +++
 

@@ -8,5 +8,6 @@ featured = false
 publication = "*International Journal of Foundations of Computer Science*"
 tags = []
 doi = "10.1142/S0129054109006966"
+url_pdf = "files/2009-ijfcs-morphic.pdf"
 +++
 
