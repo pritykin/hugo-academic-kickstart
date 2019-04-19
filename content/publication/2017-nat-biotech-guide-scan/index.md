@@ -3,9 +3,12 @@ title = "GuideScan software for improved single and paired CRISPR guide RNA desi
 date = 2017-03-01
 authors = ["Alexendar R Perez\\*", "**Yuri Pritykin**\\*", "Joana A Vidigal\\*", "Sagar Chhangawala", "Lee Zamparo", "Christina S Leslie", "Andrea Ventura"]
 publication_types = ["2"]
-abstract = ""
 featured = true
 publication = "*Nature Biotechnology*"
 doi = "10.1038/nbt.3804"
+links = [{name="read", url="https://rdcu.be/bxOAL"}]
+abstract = "We present GuideScan software for the design of CRISPR guide RNA libraries that can be used to edit coding and noncoding genomic regions. GuideScan produces high-density sets of guide RNAs (gRNAs) for single- and paired-gRNA genome-wide screens. We also show that the trie data structure of GuideScan enables the design of gRNAs that are more specific than those designed by existing tools."
 +++
+
+
 
